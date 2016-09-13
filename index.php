@@ -22,7 +22,6 @@ $dropbox_app_id = ''; // if you want to use dropbox saving, learn how to get the
 
 
 if(!is_dir($dir.DS.$dl_dir)) {
-	echo('created dl dir');
 	mkdir($dir.DS.$dl_dir, 0777);
 }
 

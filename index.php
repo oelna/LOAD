@@ -38,6 +38,8 @@ function nice_filesize($bytes, $dec = 1, $kbsize = 1024) {
 <html>
 <head>
 	<title>LOAD</title>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 	<style>
 		* { margin: 0; padding: 0; box-sizing: border-box; }
